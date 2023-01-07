@@ -13,6 +13,7 @@ secrets.json
 # next.js
 .pnp.json
 /.next/
+/out/
 
 # production
 
