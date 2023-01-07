@@ -1,1 +1,23 @@
 # google-sheet-api
+
+# google key
+secrets.json
+
+# dependencies
+/node_modules
+/.pnp
+
+# testing
+/coverage
+
+# next.js
+.pnp.json
+/.next/
+
+# production
+
+# misc
+.env.local
+
+
+
